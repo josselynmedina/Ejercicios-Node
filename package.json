@@ -1,9 +1,9 @@
 {
   "name": "ejercicios-node",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "dependencies": {
+    "balanced-match": "^1.0.0",
     "body-parse": "^0.1.0",
     "express": "^4.16.4",
     "http": "^0.0.0",
@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/josselynmedina/Ejercicios-Node/issues"
   },
-  "homepage": "https://github.com/josselynmedina/Ejercicios-Node#readme"
+  "homepage": "https://github.com/josselynmedina/Ejercicios-Node#readme",
+  "description": ""
 }
